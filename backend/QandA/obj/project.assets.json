@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sam\\Projects\\C#\\QandA\\backend\\QandA\\QandA.csproj",
+      "projectUniqueName": "C:\\Users\\Sam\\Documents\\GitHub\\QandA\\backend\\QandA\\QandA.csproj",
       "projectName": "QandA",
-      "projectPath": "C:\\Users\\Sam\\Projects\\C#\\QandA\\backend\\QandA\\QandA.csproj",
+      "projectPath": "C:\\Users\\Sam\\Documents\\GitHub\\QandA\\backend\\QandA\\QandA.csproj",
       "packagesPath": "C:\\Users\\Sam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sam\\Projects\\C#\\QandA\\backend\\QandA\\obj\\",
+      "outputPath": "C:\\Users\\Sam\\Documents\\GitHub\\QandA\\backend\\QandA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sam\\AppData\\Roaming\\NuGet\\NuGet.Config",
